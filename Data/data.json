@@ -1,0 +1,9 @@
+{ 
+"stops": [ {"id": "S1", "name": "North Campus"}, 
+{"id": "S2", "name": "Main Station"}, 
+{"id": "S3", "name": "Library"} ], 
+
+"routes": [ {"from": "S1", "to": "S2", "time": 8}, 
+{"from": "S2", "to": "S3", "time": 5}, 
+{"from": "S1", "to": "S3", "time": 20} ] 
+}
