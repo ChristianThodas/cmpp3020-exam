@@ -1,0 +1,6 @@
+class Route:
+    def __init__(self, fromstop, tostop, time):
+        self.fromstop = fromstop
+        self.tostop = tostop
+        self. Time = time
+ 
